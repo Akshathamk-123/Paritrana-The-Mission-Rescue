@@ -1,0 +1,22 @@
+developing an Chatbot using ML model
+usage of google map api for tracking the abandoned, stray dogs
+scheduling vaccination and treatment in the rescue center using desktop notifier
+drone computing(prototype) for tracking of dogs in unreachable places and path planning for the rescuers
+adaption facilities for pet lovers
+first aid instructions for rescuers 
+
+
+Project Title: Paritrāṇa - Mission Rescue
+Project Description:
+Creating a website for the whole rescue process of pets, Dogs in particular. We as a team envision to prototype(Model) a drone which will track the presence of the Dog and plans the best path to be followed by the rescuer. 
+Once the pet is found, the first aid instruction are provided by the website with the help of a chatbot(using Machine Learning model).
+It is then taken to rescue centre using google map api to find the nearest veternery clinic.
+Scheduling the vaccination and further treatement is done by providing Desktop notifiers.
+Now that the dog is completely cured, adaption facilities are made available.Therefore, a complete rescue process is made easy through a small intervention of Tech. 
+This is a brief description of the project "Paritrāṇa- Mission Rescue"
+
+Problem statement:
+A major problem faced by the abandoned, stray dogs in a country such as India, is that they are mistreated due to which they lack the love that they deserve.
+Pets usually are emotionally attached to their owners. But they are sometimes abandoned either due to financial crisis of the owners or the dog is suffering with a disease.
+There are many rescue centers built which takes lot of time and resource to protect a single Dog. To make it more efficient and less time consuming, there should be an intervention of Technology
+So there is an urgent need for the rescue system to be built as a whole which provides all the neccessary requirements for the rescue so that the time is saved and many projects of rescue can be taken up
